@@ -1,0 +1,2 @@
+# AndroidApp
+Privacy Policy
